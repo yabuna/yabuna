@@ -16,51 +16,6 @@ I'm a developer on a mission to make the web more interactive, fast, and visuall
 
 ---
 
-## 🚀 **Tech Stack**
-
-| Frontend | Backend | Tools & Platforms |
-|---------|---------|-------------------|
-| ⚛️ **React.js** / **Next.js** | 🐘 **PHP** / **Laravel** | 🐙 **Git** / **GitHub** |
-| 🌐 **HTML5** / **CSS3** / **JS** | 🛠️ **MySQL** / **REST API** | 🌍 **Vercel** / **Netlify** / **cPanel** |
-| 🎨 **Tailwind** / **Bootstrap** | 🔒 **Auth & Security** | 🧰 **VS Code** / **Postman** / **Figma** |
-
----
-
-## 💥 **Currently Working On**
-
-- ⚡ Building **blazing-fast** full-stack apps with **Next.js** & **React.js**.
-- 🧪 Exploring **serverless** architecture and **edge functions** for ultra-efficient performance.
-- 💡 Mastering **GraphQL**, **WebAssembly**, and **WebSockets** to push the boundaries.
-
----
-
-## 🧠 **Featured Projects**
-
-### 🚗 **Car Rental App**  
-A slick, fully responsive app where users can easily **rent cars online**. Built with **React.js** and **Next.js**, paired with a powerful **PHP** backend. This project highlights my expertise in **UI design** and **backend functionality**.  
-🔧 **Built with React.js** | **PHP Laravel** | **MySQL**
-
----
-
-### 🍎 **Apple Shop E-Commerce**  
-Inspired by the Apple Store, this **e-commerce** platform delivers a smooth, **Apple-like** shopping experience. Integrated **real-time inventory** management, **secure payments**, and **user-friendly design**. Built with **Next.js** and **Tailwind CSS**.  
-🔧 **Built with Next.js** | **Tailwind CSS** | **MySQL**
-
----
-
-### 💻 **Phishing Simulator Tool**  
-An **educational** tool simulating **phishing attacks** to raise awareness about online security. Helps organizations train users on how to avoid malicious emails and websites.  
-🔧 **Built with PHP** | **JavaScript** | **MySQL**
-
----
-
-### ⚙️ **Other Cool Tools**  
-- **Task Management App**: A productivity tool to **manage tasks** and **projects** efficiently.
-- **Weather App**: A **real-time weather app** fetching data from **OpenWeather API**.
-- **Real-Time Chat App**: A **chat application** built with **WebSockets** for instant messaging.
-
----
-
 ## 📈 **GitHub Stats & Streaks**
 
 <p align="center">
